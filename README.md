@@ -25,6 +25,10 @@
 
 在运行main文件后,按顺序，填写问题，提供人物图片，生成对话，生成对话视频
 
+主要程序和模型参数打包在如下的网盘链接中：
+
+包含所有模型参数，文件较大，后续抽时间传到huggingface
+
 参考：
 
 [1]https://github.com/ruoqiu6/chat-with-Elysia2.0.git
