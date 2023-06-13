@@ -5,6 +5,7 @@
 ### 本项目开源，严禁商用
 
 - 本项目基于清华大学开源模型chatGLM-6B以及vits/Sadtalker
+
   -灵感来源：https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
 
   - chatGLM-6B模型为清华大学开源，使用时请注意查看对应的使用需知，严格遵守使用规定
