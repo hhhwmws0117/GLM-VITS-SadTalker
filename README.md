@@ -8,7 +8,7 @@
 
   - 灵感来源：https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
  
-  - 主要参考https://github.com/ruoqiu6/chat-with-Elysia2.0.git和Sadtalker官方代码
+  - 主要参考https://github.com/ruoqiu6/chat-with-Elysia2.0.git 和 Sadtalker官方代码
 
   - chatGLM-6B模型为清华大学开源，使用时请注意查看对应的使用需知，严格遵守使用规定
 
