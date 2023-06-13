@@ -34,7 +34,8 @@
 包含所有模型参数，文件较大，后续抽时间传到huggingface
 
 - 视频demo
-  https://github.com/hhhwmws0117/GLM-VITS-SadTalker/assets/60333156/7fb32cb1-5016-44e5-98e0-8b3c030048f8
+
+https://github.com/hhhwmws0117/GLM-VITS-SadTalker/assets/60333156/7fb32cb1-5016-44e5-98e0-8b3c030048f8
 
 参考：
 
