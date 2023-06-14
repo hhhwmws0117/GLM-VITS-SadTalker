@@ -18,6 +18,9 @@
     - 下载后请将模型以及配置文件放在./model-vits路径下
     - 内部含有多种模型，可根据自己的需求进行选择 选择参数在soundmaker.py中的self.speaker_choice中进行修改
 
+  - Sadtalker模型下载参考https://github.com/OpenTalker/SadTalker
+    - 模型下载：bash scripts/download_models.sh
+
 - 自行部署项目时，使用下面命令以安装模块，注意：pip安装的torch可能为cpu版本，请按照torch官网的安装方式安装对应的cuda版本，如果出现模块兼容性问题，请使用python3.9.6
   
   pip install -r requirements.txt
