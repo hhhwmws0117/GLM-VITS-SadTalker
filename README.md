@@ -4,11 +4,7 @@
 
 ### 本项目开源，严禁商用
 
-- 本项目基于清华大学开源模型chatGLM-6B以及vits/Sadtalker
-
-  - 灵感来源：https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain
- 
-  - 主要参考https://github.com/ruoqiu6/chat-with-Elysia2.0.git 和 Sadtalker官方代码
+- 本项目基于清华大学开源模型chatGLM-6B以及vits框架
 
   - chatGLM-6B模型为清华大学开源，使用时请注意查看对应的使用需知，严格遵守使用规定
 
@@ -28,14 +24,6 @@
   python main.py 即可运行
 
 在运行main文件后,按顺序，填写问题，提供人物图片，生成对话，生成对话视频
-
-主要程序和模型参数打包在如下的网盘链接中：链接：https://pan.baidu.com/s/1WZNCZAIHyWNGEXRc1Lv-5A?pwd=2rd5  提取码：2rd5 
-
-包含所有模型参数，文件较大，后续抽时间传到huggingface
-
-- 视频demo
-
-https://github.com/hhhwmws0117/GLM-VITS-SadTalker/assets/60333156/7fb32cb1-5016-44e5-98e0-8b3c030048f8
 
 参考：
 
