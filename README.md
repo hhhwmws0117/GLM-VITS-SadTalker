@@ -33,7 +33,7 @@
 模型全文包括参数等存于链接：https://pan.baidu.com/s/1JPsijA4muq8rGsxUykrfrg?pwd=2zot 
 提取码：2zot 
 
-- 视频参考
+- Demo视频参考
 
 https://github.com/hhhwmws0117/GLM-VITS-SadTalker/issues/1#issue-1754902198
 
