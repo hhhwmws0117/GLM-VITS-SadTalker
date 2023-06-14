@@ -13,6 +13,7 @@
     - 模型下载链接 [点击这里](https://huggingface.co/THUDM) 请仔细阅读说明根据自己的硬件配置下载对应模型
     - 模型下载后请将模型及响应的文件放置在./chatglm-model路径下
     - 参数下载方式可参考[这里](https://space.bilibili.com/3493270982232856)的视频
+    - 情绪设定和前序prompt设定暂时维持原作者default.json，可自行修改
 
   - vits模型来自up主“saya睡大觉中”，严禁商用
     - 下载后请将模型以及配置文件放在./model-vits路径下
