@@ -6,6 +6,8 @@
 
 - 本项目基于清华大学开源模型chatGLM-6B以及vits框架
 
+  - 主要参考https://github.com/ruoqiu6/chat-with-Elysia2.0.git 和 https://github.com/OpenTalker/SadTalker
+
   - chatGLM-6B模型为清华大学开源，使用时请注意查看对应的使用需知，严格遵守使用规定
 
     - 模型下载链接 [点击这里](https://huggingface.co/THUDM) 请仔细阅读说明根据自己的硬件配置下载对应模型
@@ -24,6 +26,10 @@
   python main.py 即可运行
 
 在运行main文件后,按顺序，填写问题，提供人物图片，生成对话，生成对话视频
+
+模型全文包括参数等存于链接：https://pan.baidu.com/s/1JPsijA4muq8rGsxUykrfrg?pwd=2zot 
+提取码：2zot 
+
 
 参考：
 
